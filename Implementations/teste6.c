@@ -125,7 +125,8 @@ int main(){
         }
 
         else{
-            printf("opcao invalida\n"); 
+            printf("opcao invalida\n");
+            break;
         }
     }
     
